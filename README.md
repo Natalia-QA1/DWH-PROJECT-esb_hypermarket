@@ -24,3 +24,6 @@ The use of a data warehouse is one of the fastest and most effective ways to sol
 - Competitive Advantage because improved data management and timely quick analysis of the required segments will help you follow trends and adapt to market changes
 - The ability to reduce costs by executing simpler and more efficient queries with better performance
 
+
+# Datasets description and Synthetic Data Generation
+- [SyntheticData](https://github.com/Natalia-QA1/Synthetic_data.git)
