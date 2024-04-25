@@ -30,3 +30,6 @@ The use of a data warehouse is one of the fastest and most effective ways to sol
 
 # DWH Architecture and Modeling
 - [DWH_Architecture](https://github.com/Natalia-QA1/dwh-architecture.git)
+
+# SQL Scripts
+- [scripts](https://github.com/Natalia-QA1/dwh-project-scripts.git)
